@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Pushpita15.github.io/My-First-portfolio'",
+    "build-gh": "parcel build --public-url 'https://Pushpita15.github.io/My-First-portfolio",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
