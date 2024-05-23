@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Pushpita Das",
-  title: "Software Engineer",
-  email: "pushpita@gmail.com",
-  gitHub: "microsoft",
+  title: "Software Developer",
+  email: "pushpita05102002@gmail.com",
+  gitHub: "Pushpita15",
   instagram: "microsoft",
-  linkedIn: "pushpita-das-1a1a1a1a1",
+  linkedIn: "pushpita-das-844562248",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";

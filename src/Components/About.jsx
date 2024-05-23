@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Computer Science Engineering student at Sister Nivedita University. I am a passionate Problem solver . I enjoy solving real world problems with coding technologies. Also I am an AI enthusiast , I have been delving deeper into Machine Learning and Artificial Intelligence and thriving to curate AI based solutions";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,10 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Software development",
+  "Artificial Intelligence and Machine Learning",
+  "Data analysis",
+  "Problem solving",
 ];
 
 /**
